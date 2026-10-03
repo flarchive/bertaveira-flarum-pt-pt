@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of bertaveira/flarum-pt-pt.** Not for installation: use [Packagist](https://packagist.org/packages/bertaveira/flarum-pt-pt) or the [upstream repository](https://github.com/bertaveira/flarum-pt-pt).
 
-**0** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.12`
+**6** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.12`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2020-04-22 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.0) |
+| `v1.0.1` | 2020-04-22 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.0.1) |
+| `v1.0.2` | 2020-04-22 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.0.2) |
+| `v1.1.0` | 2020-04-22 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.1.0) |
+| `v1.1.1` | 2020-04-22 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.1.1) |
+| `v1.2.0` | 2020-04-23 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bertaveira-flarum-pt-pt/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/bertaveira-flarum-pt-pt.json](https://github.com/flarchive/archive-index/blob/main/packages/bertaveira-flarum-pt-pt.json)
 
